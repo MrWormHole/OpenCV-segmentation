@@ -13,7 +13,8 @@ Watershed segmentation with the essentials of OpenCV. Working on small features
 - ![#bcbd22](https://placehold.it/15/bcbd22/000000?text=+) `Press 8`
 - ![#17becf](https://placehold.it/15/17becf/000000?text=+) `Press 9`
 
-![watershed_penguin]()
+# What You Can Do?
+![watershed-penguin](https://user-images.githubusercontent.com/22800416/78508371-41b22500-777e-11ea-87b3-5a6e92020aa0.png)
 
 ### Required Dependencies(!order is important!)
 * Python == 3.7.4
